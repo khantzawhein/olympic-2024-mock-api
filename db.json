@@ -546,5 +546,1130 @@
       "rank": 84,
       "id": "91"
     }
+  ],
+  "sportMedalsByCountry": [
+    {
+      "id": "ALB",
+      "country": { "code": "ALB", "name": "Albania" },
+      "medalsBySport": {
+        "GLO": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 }
+      }
+    },
+    {
+      "id": "ALG",
+      "country": { "code": "ALG", "name": "Algeria" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BOX": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GAR": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 2, "silver": 0, "bronze": 0, "total": 2 }
+      }
+    },
+    {
+      "id": "ARG",
+      "country": { "code": "ARG", "name": "Argentina" },
+      "medalsBySport": {
+        "BMF": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "HOC": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SAL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "ARM",
+      "country": { "code": "ARM", "name": "Armenia" },
+      "medalsBySport": {
+        "GAR": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 3, "bronze": 1, "total": 4 },
+        "WLF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WRE": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 }
+      }
+    },
+    {
+      "id": "AUS",
+      "country": { "code": "AUS", "name": "Australia" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BKB": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BMF": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BMX": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CRD": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "CSL": { "gold": 3, "silver": 0, "bronze": 0, "total": 3 },
+        "CSP": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "CTR": { "gold": 1, "silver": 2, "bronze": 2, "total": 5 },
+        "DIV": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "EQU": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "OWS": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "ROW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SAL": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 },
+        "SHO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SKB": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SRF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SWM": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TEN": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "WPO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "AUT",
+      "country": { "code": "AUT", "name": "Austria" },
+      "medalsBySport": {
+        "CLB": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SAL": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "AZE",
+      "country": { "code": "AZE", "name": "Azerbaijan" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 2, "silver": 2, "bronze": 3, "total": 7 },
+        "JUD": { "gold": 2, "silver": 0, "bronze": 0, "total": 2 },
+        "TKW": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 3, "total": 3 }
+      }
+    },
+    {
+      "id": "BEL",
+      "country": { "code": "BEL", "name": "Belgium" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "CRD": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CTR": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 4, "total": 5 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "BOT",
+      "country": { "code": "BOT", "name": "Botswana" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 },
+        "GLO": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 }
+      }
+    },
+    {
+      "id": "BRA",
+      "country": { "code": "BRA", "name": "Brazil" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CSP": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "FBL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GAR": { "gold": 1, "silver": 2, "bronze": 1, "total": 4 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SKB": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SRF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "VBV": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "VVO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "BRN",
+      "country": { "code": "BRN", "name": "Bahrain" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 },
+        "GLO": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 },
+        "WLF": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WRE": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "BUL",
+      "country": { "code": "BUL", "name": "Bulgaria" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "GRY": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WLF": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "WRE": { "gold": 2, "silver": 0, "bronze": 0, "total": 2 }
+      }
+    },
+    {
+      "id": "CAN",
+      "country": { "code": "CAN", "name": "Canada" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "BKG": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CSP": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "DIV": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "FEN": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GTR": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "JUD": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "ROW": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "RU7": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SWM": { "gold": 3, "silver": 1, "bronze": 1, "total": 5 },
+        "TEN": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "VBV": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WLF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "CHI",
+      "country": { "code": "CHI", "name": "Chile" },
+      "medalsBySport": {
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SHO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "WRE": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "CHN",
+      "country": { "code": "CHN", "name": "China" },
+      "medalsBySport": {
+        "ARC": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "ATH": { "gold": 1, "silver": 1, "bronze": 2, "total": 4 },
+        "BDM": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BKG": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BMF": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 3, "silver": 2, "bronze": 0, "total": 5 },
+        "CLB": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CSP": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "DIV": { "gold": 4, "silver": 1, "bronze": 1, "total": 6 },
+        "GAR": { "gold": 0, "silver": 2, "bronze": 0, "total": 2 },
+        "GLF": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 3, "silver": 2, "bronze": 1, "total": 6 },
+        "GRY": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GTR": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "HOC": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SHO": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "SWA": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SWM": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TEN": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TTE": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "WLF": { "gold": 3, "silver": 0, "bronze": 0, "total": 3 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 3, "total": 3 }
+      }
+    },
+    {
+      "id": "CIV",
+      "country": { "code": "CIV", "name": "Côte d'Ivoire" },
+      "medalsBySport": {
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "COL",
+      "country": { "code": "COL", "name": "Colombia" },
+      "medalsBySport": {
+        "GAR": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "WLF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "CPV",
+      "country": { "code": "CPV", "name": "Cabo Verde" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "CRO",
+      "country": { "code": "CRO", "name": "Croatia" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 1, "bronze": 2, "total": 4 },
+        "JUD": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "ROW": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SHO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TEN": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WPO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "CUB",
+      "country": { "code": "CUB", "name": "Cuba" },
+      "medalsBySport": {
+        "BOX": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "CSP": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 2, "total": 3 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WRE": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 }
+      }
+    },
+    {
+      "id": "CYP",
+      "country": { "code": "CYP", "name": "Cyprus" },
+      "medalsBySport": {
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SAL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "CZE",
+      "country": { "code": "CZE", "name": "Czechia" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CSP": { "gold": 2, "silver": 0, "bronze": 0, "total": 2 },
+        "FEN": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "TEN": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "DEN",
+      "country": { "code": "DEN", "name": "Denmark" },
+      "medalsBySport": {
+        "BDM": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "CSP": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CTR": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "EQU": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 2, "total": 3 },
+        "HBL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SAL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "DMA",
+      "country": { "code": "DMA", "name": "Dominica" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "DOM",
+      "country": { "code": "DOM", "name": "Dominican Republic" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "ECU",
+      "country": { "code": "ECU", "name": "Ecuador" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WLF": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "WRE": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "EGY",
+      "country": { "code": "EGY", "name": "Egypt" },
+      "medalsBySport": {
+        "FEN": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "MPN": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "WLF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "EOR",
+      "country": { "code": "EOR", "name": "EOR" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "ESP",
+      "country": { "code": "ESP", "name": "Spain" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BK3": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "CSL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CSP": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "FBL": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "HBL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SAL": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SWA": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TEN": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WPO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "ETH",
+      "country": { "code": "ETH", "name": "Ethiopia" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 2, "bronze": 0, "total": 2 },
+        "GLO": { "gold": 0, "silver": 2, "bronze": 0, "total": 2 }
+      }
+    },
+    {
+      "id": "FIJ",
+      "country": { "code": "FIJ", "name": "Fiji" },
+      "medalsBySport": {
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "RU7": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "FRA",
+      "country": { "code": "FRA", "name": "France" },
+      "medalsBySport": {
+        "ARC": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BK3": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BKB": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BKG": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BMF": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BMX": { "gold": 1, "silver": 1, "bronze": 1, "total": 3 },
+        "BOX": { "gold": 0, "silver": 2, "bronze": 1, "total": 3 },
+        "CRD": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "CSL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CTR": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "EQU": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "FBL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "FEN": { "gold": 1, "silver": 3, "bronze": 0, "total": 4 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "HBL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "JUD": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "MPN": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "MTB": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "RU7": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SAL": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "SHO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SRF": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SWM": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "TRI": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "TTE": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "VVO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "GBR",
+      "country": { "code": "GBR", "name": "Great Britain" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BMF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CLB": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "CRD": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CSL": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "CTR": { "gold": 1, "silver": 1, "bronze": 3, "total": 5 },
+        "DIV": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "EQU": { "gold": 2, "silver": 0, "bronze": 3, "total": 5 },
+        "GAR": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "GLF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "GTR": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "MTB": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "ROW": { "gold": 2, "silver": 1, "bronze": 2, "total": 5 },
+        "SAL": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "SHO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SKB": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SWA": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SWM": { "gold": 1, "silver": 4, "bronze": 0, "total": 5 },
+        "TKW": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TRI": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WLF": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "GEO",
+      "country": { "code": "GEO", "name": "Georgia" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 3, "silver": 3, "bronze": 1, "total": 7 },
+        "JUD": { "gold": 1, "silver": 2, "bronze": 0, "total": 3 },
+        "WLF": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "WRE": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 }
+      }
+    },
+    {
+      "id": "GER",
+      "country": { "code": "GER", "name": "Germany" },
+      "medalsBySport": {
+        "ARC": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "ATH": { "gold": 1, "silver": 1, "bronze": 1, "total": 3 },
+        "BK3": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CSL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CSP": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "CTR": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "EQU": { "gold": 4, "silver": 1, "bronze": 0, "total": 5 },
+        "FBL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 },
+        "GRY": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "HBL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "HOC": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "JUD": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "OWS": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "ROW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SWM": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TRI": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "VBV": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "GRE",
+      "country": { "code": "GRE", "name": "Greece" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "GAR": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "ROW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SWM": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "GRN",
+      "country": { "code": "GRN", "name": "Grenada" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 }
+      }
+    },
+    {
+      "id": "GUA",
+      "country": { "code": "GUA", "name": "Guatemala" },
+      "medalsBySport": {
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SHO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "HKG",
+      "country": { "code": "HKG", "name": "Hong Kong, China" },
+      "medalsBySport": {
+        "FEN": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 2, "total": 3 },
+        "SWM": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 }
+      }
+    },
+    {
+      "id": "HUN",
+      "country": { "code": "HUN", "name": "Hungary" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CSP": { "gold": 0, "silver": 2, "bronze": 2, "total": 4 },
+        "FEN": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 2, "silver": 2, "bronze": 4, "total": 8 },
+        "MPN": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "OWS": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "SHO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SWM": { "gold": 2, "silver": 1, "bronze": 0, "total": 3 },
+        "TKW": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "INA",
+      "country": { "code": "INA", "name": "Indonesia" },
+      "medalsBySport": {
+        "BDM": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CLB": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WLF": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "IND",
+      "country": { "code": "IND", "name": "India" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "HOC": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SHO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "IRI",
+      "country": { "code": "IRI", "name": "IR Iran" },
+      "medalsBySport": {
+        "GLO": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "TKW": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "WRE": { "gold": 2, "silver": 4, "bronze": 2, "total": 8 }
+      }
+    },
+    {
+      "id": "IRL",
+      "country": { "code": "IRL", "name": "Ireland" },
+      "medalsBySport": {
+        "BOX": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GAR": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "ROW": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "SWM": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "ISR",
+      "country": { "code": "ISR", "name": "Israel" },
+      "medalsBySport": {
+        "GAR": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 4, "bronze": 0, "total": 4 },
+        "GRY": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "JUD": { "gold": 0, "silver": 2, "bronze": 0, "total": 2 },
+        "SAL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "ITA",
+      "country": { "code": "ITA", "name": "Italy" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CRD": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CSL": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "CSP": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CTR": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "FEN": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 },
+        "GAR": { "gold": 1, "silver": 1, "bronze": 1, "total": 3 },
+        "GLO": { "gold": 2, "silver": 0, "bronze": 0, "total": 2 },
+        "GRY": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "JUD": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "MPN": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "OWS": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "ROW": { "gold": 0, "silver": 2, "bronze": 0, "total": 2 },
+        "SAL": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SHO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SWM": { "gold": 2, "silver": 1, "bronze": 2, "total": 5 },
+        "TEN": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "VVO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "WLF": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "JAM",
+      "country": { "code": "JAM", "name": "Jamaica" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "JOR",
+      "country": { "code": "JOR", "name": "Jordan" },
+      "medalsBySport": {
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "JPN",
+      "country": { "code": "JPN", "name": "Japan" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BDM": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BKG": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "CLB": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "DIV": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "EQU": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "FEN": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "GAR": { "gold": 3, "silver": 0, "bronze": 1, "total": 4 },
+        "GLF": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 2, "bronze": 1, "total": 3 },
+        "JUD": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "MPN": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SAL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SKB": { "gold": 1, "silver": 2, "bronze": 0, "total": 3 },
+        "SWM": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TTE": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "WRE": { "gold": 4, "silver": 0, "bronze": 2, "total": 6 }
+      }
+    },
+    {
+      "id": "KAZ",
+      "country": { "code": "KAZ", "name": "Kazakhstan" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GAR": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "JUD": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "SHO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WRE": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "KEN",
+      "country": { "code": "KEN", "name": "Kenya" },
+      "medalsBySport": {
+        "ATH": { "gold": 3, "silver": 1, "bronze": 3, "total": 7 },
+        "GLO": { "gold": 3, "silver": 1, "bronze": 3, "total": 7 }
+      }
+    },
+    {
+      "id": "KGZ",
+      "country": { "code": "KGZ", "name": "Kyrgyzstan" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "WRE": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 }
+      }
+    },
+    {
+      "id": "KOR",
+      "country": { "code": "KOR", "name": "Korea" },
+      "medalsBySport": {
+        "ARC": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BDM": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "FEN": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 2, "bronze": 2, "total": 5 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "MPN": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SHO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SWM": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TKW": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "TTE": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WLF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "KOS",
+      "country": { "code": "KOS", "name": "Kosovo" },
+      "medalsBySport": {
+        "GLO": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "JUD": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 }
+      }
+    },
+    {
+      "id": "LCA",
+      "country": { "code": "LCA", "name": "Saint Lucia" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 },
+        "GLO": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 }
+      }
+    },
+    {
+      "id": "LTU",
+      "country": { "code": "LTU", "name": "Lithuania" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BK3": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BKG": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "ROW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "MAR",
+      "country": { "code": "MAR", "name": "Morocco" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "FBL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 }
+      }
+    },
+    {
+      "id": "MAS",
+      "country": { "code": "MAS", "name": "Malaysia" },
+      "medalsBySport": {
+        "BDM": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 }
+      }
+    },
+    {
+      "id": "MDA",
+      "country": { "code": "MDA", "name": "Republic of Moldova" },
+      "medalsBySport": {
+        "CSP": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "WRE": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "MEX",
+      "country": { "code": "MEX", "name": "Mexico" },
+      "medalsBySport": {
+        "ARC": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BOX": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "DIV": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "JUD": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "MGL",
+      "country": { "code": "MGL", "name": "Mongolia" },
+      "medalsBySport": {
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "JUD": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "NED",
+      "country": { "code": "NED", "name": "Netherlands" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BK3": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BMX": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CRD": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CTR": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "EQU": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "HOC": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "OWS": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "ROW": { "gold": 3, "silver": 1, "bronze": 0, "total": 4 },
+        "SAL": { "gold": 2, "silver": 0, "bronze": 1, "total": 3 },
+        "SWA": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SWM": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WPO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "NOR",
+      "country": { "code": "NOR", "name": "Norway" },
+      "medalsBySport": {
+        "ATH": { "gold": 2, "silver": 1, "bronze": 0, "total": 3 },
+        "GLO": { "gold": 2, "silver": 0, "bronze": 2, "total": 4 },
+        "HBL": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SAL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "VBV": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WLF": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "NZL",
+      "country": { "code": "NZL", "name": "New Zealand" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CSL": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "CSP": { "gold": 3, "silver": 0, "bronze": 0, "total": 3 },
+        "CTR": { "gold": 2, "silver": 2, "bronze": 1, "total": 5 },
+        "GLF": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "ROW": { "gold": 1, "silver": 1, "bronze": 1, "total": 3 },
+        "RU7": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SAL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TRI": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "PAK",
+      "country": { "code": "PAK", "name": "Pakistan" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "PAN",
+      "country": { "code": "PAN", "name": "Panama" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "PER",
+      "country": { "code": "PER", "name": "Peru" },
+      "medalsBySport": {
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SAL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "PHI",
+      "country": { "code": "PHI", "name": "Philippines" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 },
+        "GAR": { "gold": 2, "silver": 0, "bronze": 0, "total": 2 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 }
+      }
+    },
+    {
+      "id": "POL",
+      "country": { "code": "POL", "name": "Poland" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BOX": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CLB": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "CSL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CTR": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "FEN": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 3, "bronze": 4, "total": 8 },
+        "ROW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TEN": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "VVO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "POR",
+      "country": { "code": "POR", "name": "Portugal" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CTR": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "PRK",
+      "country": { "code": "PRK", "name": "DPR Korea" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "DIV": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TTE": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "PUR",
+      "country": { "code": "PUR", "name": "Puerto Rico" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "QAT",
+      "country": { "code": "QAT", "name": "Qatar" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "ROU",
+      "country": { "code": "ROU", "name": "Romania" },
+      "medalsBySport": {
+        "GAR": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 4, "bronze": 1, "total": 6 },
+        "ROW": { "gold": 1, "silver": 3, "bronze": 0, "total": 4 },
+        "SWM": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "WLF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "RSA",
+      "country": { "code": "RSA", "name": "South Africa" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 2, "bronze": 0, "total": 3 },
+        "MTB": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "RU7": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SWM": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 }
+      }
+    },
+    {
+      "id": "SGP",
+      "country": { "code": "SGP", "name": "Singapore" },
+      "medalsBySport": {
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SAL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "SLO",
+      "country": { "code": "SLO", "name": "Slovenia" },
+      "medalsBySport": {
+        "CLB": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 2, "silver": 0, "bronze": 0, "total": 2 },
+        "JUD": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SAL": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "SRB",
+      "country": { "code": "SRB", "name": "Serbia" },
+      "medalsBySport": {
+        "BKB": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SHO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "TEN": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WPO": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "SUI",
+      "country": { "code": "SUI", "name": "Switzerland" },
+      "medalsBySport": {
+        "BMX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "EQU": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 1, "bronze": 3, "total": 5 },
+        "ROW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SHO": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "SWM": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TRI": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "VBV": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "SVK",
+      "country": { "code": "SVK", "name": "Slovakia" },
+      "medalsBySport": {
+        "CSL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "SWE",
+      "country": { "code": "SWE", "name": "Sweden" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "MTB": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SAL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SHO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SWM": { "gold": 2, "silver": 0, "bronze": 0, "total": 2 },
+        "TTE": { "gold": 0, "silver": 2, "bronze": 0, "total": 2 },
+        "VBV": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "THA",
+      "country": { "code": "THA", "name": "Thailand" },
+      "medalsBySport": {
+        "BDM": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 2, "total": 3 },
+        "TKW": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "WLF": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "TJK",
+      "country": { "code": "TJK", "name": "Tajikistan" },
+      "medalsBySport": {
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 3, "total": 3 },
+        "JUD": { "gold": 0, "silver": 0, "bronze": 2, "total": 2 }
+      }
+    },
+    {
+      "id": "TPE",
+      "country": { "code": "TPE", "name": "Chinese Taipei" },
+      "medalsBySport": {
+        "BDM": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 1, "silver": 0, "bronze": 2, "total": 3 },
+        "GAR": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 1, "silver": 0, "bronze": 3, "total": 4 },
+        "SHO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WLF": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "TUN",
+      "country": { "code": "TUN", "name": "Tunisia" },
+      "medalsBySport": {
+        "FEN": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 1, "bronze": 1, "total": 3 },
+        "TKW": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 }
+      }
+    },
+    {
+      "id": "TUR",
+      "country": { "code": "TUR", "name": "Türkiye" },
+      "medalsBySport": {
+        "ARC": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BOX": { "gold": 0, "silver": 2, "bronze": 1, "total": 3 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SHO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WRE": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    },
+    {
+      "id": "UGA",
+      "country": { "code": "UGA", "name": "Uganda" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "UKR",
+      "country": { "code": "UKR", "name": "Ukraine" },
+      "medalsBySport": {
+        "ATH": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "BOX": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "CSP": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "FEN": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "GAR": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 2, "silver": 2, "bronze": 2, "total": 6 },
+        "SHO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WRE": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 }
+      }
+    },
+    {
+      "id": "USA",
+      "country": { "code": "USA", "name": "United States" },
+      "medalsBySport": {
+        "ARC": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "ATH": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BK3": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BKB": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "BKG": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "BMF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "BOX": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CLB": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CRD": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "CSL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "CSP": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "CTR": { "gold": 2, "silver": 0, "bronze": 0, "total": 2 },
+        "DIV": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "EQU": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "FBL": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "FEN": { "gold": 2, "silver": 1, "bronze": 0, "total": 3 },
+        "GAR": { "gold": 3, "silver": 1, "bronze": 3, "total": 7 },
+        "GLF": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "GLO": { "gold": 1, "silver": 3, "bronze": 1, "total": 5 },
+        "MTB": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "ROW": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 },
+        "RU7": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SAL": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "SHO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SKB": { "gold": 0, "silver": 2, "bronze": 1, "total": 3 },
+        "SRF": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "SWA": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "SWM": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "TEN": { "gold": 0, "silver": 1, "bronze": 1, "total": 2 },
+        "TKW": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "TRI": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "VVO": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WLF": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "WPO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "WRE": { "gold": 2, "silver": 1, "bronze": 1, "total": 4 }
+      }
+    },
+    {
+      "id": "UZB",
+      "country": { "code": "UZB", "name": "Uzbekistan" },
+      "medalsBySport": {
+        "BOX": { "gold": 5, "silver": 0, "bronze": 0, "total": 5 },
+        "GLO": { "gold": 1, "silver": 1, "bronze": 0, "total": 2 },
+        "JUD": { "gold": 1, "silver": 0, "bronze": 0, "total": 1 },
+        "TKW": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WLF": { "gold": 0, "silver": 1, "bronze": 0, "total": 1 },
+        "WRE": { "gold": 1, "silver": 0, "bronze": 1, "total": 2 }
+      }
+    },
+    {
+      "id": "ZAM",
+      "country": { "code": "ZAM", "name": "Zambia" },
+      "medalsBySport": {
+        "ATH": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 },
+        "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
+      }
+    }
   ]
 }

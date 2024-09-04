@@ -1671,5 +1671,433 @@
         "GLO": { "gold": 0, "silver": 0, "bronze": 1, "total": 1 }
       }
     }
+  ],
+  "sports": [
+    {
+      "id": "BK3",
+      "name": "3x3 Basketball",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BK3.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BK3-dark.avif"
+    },
+    {
+      "id": "ARC",
+      "name": "Archery",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/ARC.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/ARC-dark.avif"
+    },
+    {
+      "id": "GAR",
+      "name": "Artistic Gymnastics",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/GAR.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/GAR-dark.avif"
+    },
+    {
+      "id": "SWA",
+      "name": "Artistic Swimming",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SWA.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SWA-dark.avif"
+    },
+    {
+      "id": "ATH",
+      "name": "Athletics",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/ATH.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/ATH-dark.avif"
+    },
+    {
+      "id": "BDM",
+      "name": "Badminton",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BDM.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BDM-dark.avif"
+    },
+    {
+      "id": "BKB",
+      "name": "Basketball",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BKB.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BKB-dark.avif"
+    },
+    {
+      "id": "VBV",
+      "name": "Beach Volleyball",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/VBV.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/VBV-dark.avif"
+    },
+    {
+      "id": "BOX",
+      "name": "Boxing",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BOX.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BOX-dark.avif"
+    },
+    {
+      "id": "BKG",
+      "name": "Breaking",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BKG.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BKG-dark.avif"
+    },
+    {
+      "id": "CSL",
+      "name": "Canoe Slalom",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/CSL.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/CSL-dark.avif"
+    },
+    {
+      "id": "CSP",
+      "name": "Canoe Sprint",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/CSP.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/CSP-dark.avif"
+    },
+    {
+      "id": "BMF",
+      "name": "Cycling BMX Freestyle",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BMF.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BMF-dark.avif"
+    },
+    {
+      "id": "BMX",
+      "name": "Cycling BMX Racing",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BMX.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/BMX-dark.avif"
+    },
+    {
+      "id": "MTB",
+      "name": "Cycling Mountain Bike",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/MTB.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/MTB-dark.avif"
+    },
+    {
+      "id": "CRD",
+      "name": "Cycling Road",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/CRD.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/CRD-dark.avif"
+    },
+    {
+      "id": "CTR",
+      "name": "Cycling Track",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/CTR.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/CTR-dark.avif"
+    },
+    {
+      "id": "DIV",
+      "name": "Diving",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/DIV.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/DIV-dark.avif"
+    },
+    {
+      "id": "EQU",
+      "name": "Equestrian",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/EQU.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/EQU-dark.avif"
+    },
+    {
+      "id": "FEN",
+      "name": "Fencing",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/FEN.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/FEN-dark.avif"
+    },
+    {
+      "id": "FBL",
+      "name": "Football",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/FBL.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/FBL-dark.avif"
+    },
+    {
+      "id": "GLF",
+      "name": "Golf",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/GLF.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/GLF-dark.avif"
+    },
+    {
+      "id": "HBL",
+      "name": "Handball",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/HBL.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/HBL-dark.avif"
+    },
+    {
+      "id": "HOC",
+      "name": "Hockey",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/HOC.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/HOC-dark.avif"
+    },
+    {
+      "id": "JUD",
+      "name": "Judo",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/JUD.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/JUD-dark.avif"
+    },
+    {
+      "id": "OWS",
+      "name": "Marathon Swimming",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/OWS.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/OWS-dark.avif"
+    },
+    {
+      "id": "MPN",
+      "name": "Modern Pentathlon",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/MPN.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/MPN-dark.avif"
+    },
+    {
+      "id": "GRY",
+      "name": "Rhythmic Gymnastics",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/GRY.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/GRY-dark.avif"
+    },
+    {
+      "id": "ROW",
+      "name": "Rowing",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/ROW.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/ROW-dark.avif"
+    },
+    {
+      "id": "RU7",
+      "name": "Rugby Sevens",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/RU7.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/RU7-dark.avif"
+    },
+    {
+      "id": "SAL",
+      "name": "Sailing",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SAL.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SAL-dark.avif"
+    },
+    {
+      "id": "SHO",
+      "name": "Shooting",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SHO.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SHO-dark.avif"
+    },
+    {
+      "id": "SKB",
+      "name": "Skateboarding",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SKB.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SKB-dark.avif"
+    },
+    {
+      "id": "CLB",
+      "name": "Sport Climbing",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/CLB.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/CLB-dark.avif"
+    },
+    {
+      "id": "SRF",
+      "name": "Surfing",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SRF.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SRF-dark.avif"
+    },
+    {
+      "id": "SWM",
+      "name": "Swimming",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SWM.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/SWM-dark.avif"
+    },
+    {
+      "id": "TTE",
+      "name": "Table Tennis",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/TTE.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/TTE-dark.avif"
+    },
+    {
+      "id": "TKW",
+      "name": "Taekwondo",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/TKW.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/TKW-dark.avif"
+    },
+    {
+      "id": "TEN",
+      "name": "Tennis",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/TEN.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/TEN-dark.avif"
+    },
+    {
+      "id": "GTR",
+      "name": "Trampoline Gymnastics",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/GTR.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/GTR-dark.avif"
+    },
+    {
+      "id": "TRI",
+      "name": "Triathlon",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/TRI.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/TRI-dark.avif"
+    },
+    {
+      "id": "VVO",
+      "name": "Volleyball",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/VVO.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/VVO-dark.avif"
+    },
+    {
+      "id": "WPO",
+      "name": "Water Polo",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/WPO.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/WPO-dark.avif"
+    },
+    {
+      "id": "WLF",
+      "name": "Weightlifting",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/WLF.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/WLF-dark.avif"
+    },
+    {
+      "id": "WRE",
+      "name": "Wrestling",
+      "pictogram_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/WRE.avif",
+      "pictogram_url_dark": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/pictograms/WRE-dark.avif"
+    },
+    {
+      "id": "FBB",
+      "name": "Blind Football",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/FBB.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/FBB-dark.avif"
+    },
+    {
+      "id": "BOC",
+      "name": "Boccia",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/BOC.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/BOC-dark.avif"
+    },
+    {
+      "id": "GBL",
+      "name": "Goalball",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/GBL.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/GBL-dark.avif"
+    },
+    {
+      "id": "P-FBB",
+      "name": "Blind Football",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-FBB.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-FBB-dark.avif"
+    },
+    {
+      "id": "P-BOC",
+      "name": "Boccia",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-BOC.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-BOC-dark.avif"
+    },
+    {
+      "id": "P-GBL",
+      "name": "Goalball",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-GBL.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-GBL-dark.avif"
+    },
+    {
+      "id": "P-ARC",
+      "name": "Para Archery",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-ARC.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-ARC-dark.avif"
+    },
+    {
+      "id": "P-ATH",
+      "name": "Para Athletics",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-ATH.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-ATH-dark.avif"
+    },
+    {
+      "id": "P-BDM",
+      "name": "Para Badminton",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-BDM.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-BDM-dark.avif"
+    },
+    {
+      "id": "P-CSP",
+      "name": "Para Canoe",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-CSP.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-CSP-dark.avif"
+    },
+    {
+      "id": "P-CRD",
+      "name": "Para Cycling Road",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-CRD.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-CRD-dark.avif"
+    },
+    {
+      "id": "P-CTR",
+      "name": "Para Cycling Track",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-CTR.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-CTR-dark.avif"
+    },
+    {
+      "id": "P-EQU",
+      "name": "Para Equestrian",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-EQU.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-EQU-dark.avif"
+    },
+    {
+      "id": "P-JUD",
+      "name": "Para Judo",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-JUD.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-JUD-dark.avif"
+    },
+    {
+      "id": "P-PWL",
+      "name": "Para Powerlifting",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-PWL.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-PWL-dark.avif"
+    },
+    {
+      "id": "P-ROW",
+      "name": "Para Rowing",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-ROW.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-ROW-dark.avif"
+    },
+    {
+      "id": "P-SWM",
+      "name": "Para Swimming",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-SWM.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-SWM-dark.avif"
+    },
+    {
+      "id": "P-TTE",
+      "name": "Para Table Tennis",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-TTE.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-TTE-dark.avif"
+    },
+    {
+      "id": "P-TKW",
+      "name": "Para Taekwondo",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-TKW.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-TKW-dark.avif"
+    },
+    {
+      "id": "P-TRI",
+      "name": "Para Triathlon",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-TRI.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-TRI-dark.avif"
+    },
+    {
+      "id": "P-SHO",
+      "name": "Shooting Para Sport",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-SHO.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-SHO-dark.avif"
+    },
+    {
+      "id": "P-VBS",
+      "name": "Sitting Volleyball",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-VBS.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-VBS-dark.avif"
+    },
+    {
+      "id": "P-WBK",
+      "name": "Wheelchair Basketball",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-WBK.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-WBK-dark.avif"
+    },
+    {
+      "id": "P-WFE",
+      "name": "Wheelchair Fencing",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-WFE.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-WFE-dark.avif"
+    },
+    {
+      "id": "P-WRU",
+      "name": "Wheelchair Rugby",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-WRU.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-WRU-dark.avif"
+    },
+    {
+      "id": "P-WTE",
+      "name": "Wheelchair Tennis",
+      "pictogram_url": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-WTE.avif",
+      "pictogram_url_dark": "https://assets.codante.io/codante-apis/olympic-games/pictograms/P-WTE-dark.avif"
+    }
   ]
 }
